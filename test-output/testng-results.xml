@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-22T20:36:23 IST" name="Suite" finished-at="2021-01-22T20:36:23 IST" duration-ms="196">
+    <groups>
+    </groups>
+    <test started-at="2021-01-22T20:36:23 IST" name="Test" finished-at="2021-01-22T20:36:23 IST" duration-ms="196">
+      <class name="qaacademy.maven2java.AppiumTest">
+        <test-method signature="android()[pri:0, instance:qaacademy.maven2java.AppiumTest@29647f75]" started-at="2021-01-22T20:36:23 IST" name="android" finished-at="2021-01-22T20:36:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- android -->
+        <test-method signature="ios()[pri:0, instance:qaacademy.maven2java.AppiumTest@29647f75]" started-at="2021-01-22T20:36:23 IST" name="ios" finished-at="2021-01-22T20:36:23 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ios -->
+      </class> <!-- qaacademy.maven2java.AppiumTest -->
+      <class name="qaacademy.maven2java.seleniumTest">
+        <test-method signature="webapp()[pri:0, instance:qaacademy.maven2java.seleniumTest@2892dae4]" started-at="2021-01-22T20:36:23 IST" name="webapp" finished-at="2021-01-22T20:36:23 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webapp -->
+        <test-method signature="webapps()[pri:0, instance:qaacademy.maven2java.seleniumTest@2892dae4]" started-at="2021-01-22T20:36:23 IST" name="webapps" finished-at="2021-01-22T20:36:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webapps -->
+      </class> <!-- qaacademy.maven2java.seleniumTest -->
+      <class name="qaacademy.maven2java.RestApiTest">
+        <test-method signature="RestAPi()[pri:0, instance:qaacademy.maven2java.RestApiTest@355ce81c]" started-at="2021-01-22T20:36:23 IST" name="RestAPi" finished-at="2021-01-22T20:36:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPi -->
+        <test-method signature="RsetApi2()[pri:0, instance:qaacademy.maven2java.RestApiTest@355ce81c]" started-at="2021-01-22T20:36:23 IST" name="RsetApi2" finished-at="2021-01-22T20:36:23 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RsetApi2 -->
+      </class> <!-- qaacademy.maven2java.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
