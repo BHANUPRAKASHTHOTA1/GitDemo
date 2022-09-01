@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T00:59:57.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" version="20.2.7" etag="xXs7ZOzugW56RWaD4xwR" type="github"><diagram id="rF6pNUGixE2g1PTca6je">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-01T01:06:35.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="KAASINsCozwQ_sj7ZxDO" version="20.2.7" type="github">
+  <diagram id="rF6pNUGixE2g1PTca6je" name="Page-1">
+    <mxGraphModel dx="782" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wQAA64xd0sebXVBfC5qL-3" value="&lt;h1&gt;Hosting a web application&lt;/h1&gt;&lt;div&gt;1. we need resource group&lt;/div&gt;&lt;div&gt;2. Need Virtual network&lt;/div&gt;&lt;div&gt;3.need subnet&lt;/div&gt;&lt;div&gt;4.need Linux / windows Virtual machine&lt;/div&gt;&lt;div&gt;5. need database like postgres Sql (either Single server / flexi server)&lt;/div&gt;&lt;div&gt;6.Login to Azure devOps need to get register or connect the VM with devOps by using PAT&lt;/div&gt;&lt;div&gt;7.we need DBeaver to check whether created DB working or not&lt;/div&gt;&lt;div&gt;8.&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-423" width="517" height="243" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
