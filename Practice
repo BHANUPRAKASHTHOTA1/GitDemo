@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T05:10:55.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="COIN2J-08CprwfIMbTIj" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T05:16:03.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="iX433-8ww0YSaF3QiYx1" version="20.2.7" type="github">
   <diagram id="rF6pNUGixE2g1PTca6je" name="Page-1">
     <mxGraphModel dx="1182" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,13 +14,16 @@
           <mxGeometry x="310" y="-125" width="395" height="281" as="geometry" />
         </mxCell>
         <mxCell id="wQAA64xd0sebXVBfC5qL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-61" y="304" width="286" height="176" as="geometry" />
+          <mxGeometry x="32" y="301" width="373" height="235" as="geometry" />
         </mxCell>
         <mxCell id="wQAA64xd0sebXVBfC5qL-7" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
-          <mxGeometry x="-31" y="320" width="50" height="40" as="geometry" />
+          <mxGeometry x="-27" y="229" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wQAA64xd0sebXVBfC5qL-8" value="resource group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-41" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wQAA64xd0sebXVBfC5qL-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="523" width="50" height="27.500000000000004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
