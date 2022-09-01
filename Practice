@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T05:04:19.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Wat_7q9HewUtS7wBADGO" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T05:10:55.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="COIN2J-08CprwfIMbTIj" version="20.2.7" type="github">
   <diagram id="rF6pNUGixE2g1PTca6je" name="Page-1">
     <mxGraphModel dx="1182" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,6 +12,15 @@
         </mxCell>
         <mxCell id="wQAA64xd0sebXVBfC5qL-4" value="&lt;p style=&quot;box-sizing: inherit; outline-color: inherit; margin: 1rem 0px 0px; padding: 0px; overflow-wrap: break-word; color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;address ranges:&lt;/p&gt;&lt;ul style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px 0px 0px 20px; padding: 0px; list-style: none; color: rgb(23, 23, 23); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: circle;&quot;&gt;224.0.0.0/4 (Multicast)&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: circle;&quot;&gt;255.255.255.255/32 (Broadcast)&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: circle;&quot;&gt;127.0.0.0/8 (Loopback)&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: circle;&quot;&gt;169.254.0.0/16 (Link-local)&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; outline-color: inherit; margin: 0px; padding: 0px; outline-style: initial; outline-width: 0px; list-style: circle;&quot;&gt;168.63.129.16/32 (Internal DNS, DHCP, and Azure Load Balancer&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="-125" width="395" height="281" as="geometry" />
+        </mxCell>
+        <mxCell id="wQAA64xd0sebXVBfC5qL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="304" width="286" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="wQAA64xd0sebXVBfC5qL-7" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
+          <mxGeometry x="-31" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wQAA64xd0sebXVBfC5qL-8" value="resource group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-41" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
